@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\raw\\libsplayer.7z",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playercore_v2.0\\unspecified\\res\\raw\\libsplayer.7z"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\raw\\config.properties",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\raw\\config.properties"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\default_decodingtype_adapter.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\default_decodingtype_adapter.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\indicater_layer_include.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\indicater_layer_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\dlna_connection_layout_include.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\dlna_connection_layout_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\dlna_list_layout_include.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\dlna_list_layout_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\video_play_error_layout.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\video_play_error_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\tip_layout.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\layout\\dlna_device_list_item.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\layout\\dlna_device_list_item.xml"
+    }
+]

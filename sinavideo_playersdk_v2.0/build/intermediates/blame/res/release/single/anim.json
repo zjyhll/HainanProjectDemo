@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\down_to_up_translate2.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\down_to_up_translate2.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\right_to_left_translate2.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\right_to_left_translate2.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\left_to_right_translate2.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\left_to_right_translate2.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\zoom_out.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\left_to_right_translate.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\left_to_right_translate.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\right_to_left_translate.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\right_to_left_translate.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\video_list_fade_from_right.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\video_list_fade_from_right.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\up_to_down_translate2.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\up_to_down_translate2.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\down_to_up_translate.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\down_to_up_translate.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\video_list_from_right_in.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\video_list_from_right_in.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\build\\intermediates\\res\\merged\\release\\anim\\up_to_down_translate.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playersdk_v2.0\\res\\anim\\up_to_down_translate.xml"
+    }
+]
