@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\video_listview.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\video_listview.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_device_list_item.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\dlna_device_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\video_gridview.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\video_gridview.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_connection_layout_include.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\dlna_connection_layout_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\live_video_detail_control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\live_video_detail_control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\m3u8_ui_control_layer_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\m3u8_ui_control_layer_horizon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\video_play_error_layout.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\video_play_error_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\sinavideo_test.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\sinavideo_test.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\only_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\only_horizon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\default_decodingtype_adapter.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\default_decodingtype_adapter.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\simple_ui_control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\simple_ui_control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\common_control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\common_control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\my_test_layer1.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\my_test_layer1.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\send_comment_layout_full_screen.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\send_comment_layout_full_screen.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\test1.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\test1.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\m3u8_test.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\m3u8_test.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\control_layer_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\control_layer_horizon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\simple_control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\simple_control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\test_webview.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\test_webview.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\simple_test.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\simple_test.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_vision.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\list_vision.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_vision_item.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\list_vision_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\playerlist1_layout.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\playerlist1_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\tip_layout.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\vidvms_ui_control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\vidvms_ui_control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\simple_ui_ad_layer_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\simple_ui_ad_layer_horizon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\simple_ui_control_layer_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\simple_ui_control_layer_horizon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\dlna_list_layout_include.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\dlna_list_layout_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\vidvms_ui_control_layer_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\vidvms_ui_control_layer_horizon.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\test_vid_vms.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\test_vid_vms.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\simple_ui_ad_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\simple_ui_ad_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_sport.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\video_list_sport.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\indicater_layer_include.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\layout\\indicater_layer_include.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\video_layout.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\video_layout.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\m3u8_ui_control_layer.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\m3u8_ui_control_layer.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\video_grid_item.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\video_grid_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\layout\\live_video_detail_control_layer_horizon.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\layout\\live_video_detail_control_layer_horizon.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_soundseekbar_background.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_soundseekbar_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\ad_silent_selcetor.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\ad_silent_selcetor.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_seekbar_background.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_seekbar_background.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\playbutton.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\playbutton.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_pause.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_pause.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\pausebutton.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\pausebutton.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_iamge_progress.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\drawable\\loading_iamge_progress.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_fullscreen.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_fullscreen.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\resolution_textcolor.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\resolution_textcolor.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\quality_bg.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\quality_bg.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_play.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_play.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_volume.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_volume.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_share.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\drawable\\play_ctrl_share.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_back.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_back.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\item_track.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\drawable\\item_track.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_video_list.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_video_list.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_ctrl_volume_mute.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_ctrl_volume_mute.xml"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\play_seekbar_color_bg.xml",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\drawable\\play_seekbar_color_bg.xml"
+    }
+]

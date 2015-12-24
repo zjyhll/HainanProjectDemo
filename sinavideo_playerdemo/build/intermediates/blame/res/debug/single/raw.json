@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\raw\\test_webview.html",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\res\\raw\\test_webview.html"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\raw\\config.properties",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playersdk_v2.0\\unspecified\\res\\raw\\config.properties"
+    },
+    {
+        "merged": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\res\\merged\\debug\\raw\\libsplayer.7z",
+        "source": "E:\\androidStudio2.0\\AndroidStudioProjects\\ImportOtherLib\\sinavideo_playerdemo\\build\\intermediates\\exploded-aar\\ImportOtherLib\\sinavideo_playercore_v2.0\\unspecified\\res\\raw\\libsplayer.7z"
+    }
+]
