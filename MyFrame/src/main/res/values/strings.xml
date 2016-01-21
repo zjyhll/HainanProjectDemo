@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-
+    <string name="str_reorder_normal">按住说话</string>
+    <string name="str_reorder_recording">松开结束</string>
+    <string name="str_reorder_want_to_cancel">松开手指，取消发送</string>
     <!-- 没有数据提示内容 -->
     <!-- 主页 -->
     <string name="home_page">没有活动…</string>
